@@ -1,0 +1,6 @@
+{
+  "name": "LASER.NEST // STUDIO v2.4",
+  "description": "Industrial-grade 2D CAD nesting studio, ink-saver corner tick layout generator, and precision toolpath compiler for laser cutting, CNC milling, and physical fabrication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
